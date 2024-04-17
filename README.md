@@ -12,3 +12,4 @@ override.tf.json - исключается файл override.tf.json
 *_override.tf.json - исключаются все файлы с окончанием _override.tf.json
 .terraformrc - исключаются все файлы с расширением .terraformrc
 terraform.rc - исключается файл terraform.rc
+add new line
